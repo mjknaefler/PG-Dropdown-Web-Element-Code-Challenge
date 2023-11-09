@@ -47,6 +47,7 @@ describe('Test cases to understand how to interact with dropdown menus', () =>{
 
         //1. Launch hotels.com 
         await browser.url('https://hotels.com/');
+        await browser.pause(2000);
 
         //2. Make Adults=4 in Room-1
         

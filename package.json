@@ -13,12 +13,13 @@
   "dependencies": {
     "@wdio/cli": "^8.20.5",
     "chai": "^4.3.10",
+    "chromedriver": "^119.0.1",
     "moment": "^2.29.4"
   },
   "devDependencies": {
-    "@wdio/local-runner": "^8.20.5",
-    "@wdio/mocha-framework": "^8.20.3",
-    "@wdio/spec-reporter": "^8.20.0",
-    "wdio-wait-for": "^3.0.7"
+    "@wdio/local-runner": "^8.22.1",
+    "@wdio/mocha-framework": "^8.22.0",
+    "@wdio/spec-reporter": "^8.21.0",
+    "wdio-wait-for": "^3.0.8"
   }
 }
